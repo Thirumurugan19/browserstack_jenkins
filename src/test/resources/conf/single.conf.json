@@ -1,0 +1,17 @@
+{
+  "server": "hub-cloud.browserstack.com",
+  "user": "thirumurugan5",
+  "key": "yJnY9k7uvm7CPt9EbYUx",
+
+  "capabilities": {
+    "build": "browserstack_UI",
+    "name": "single_test",
+    "browserstack.debug": true
+  },
+
+  "environments": {
+    "chrome": {
+      "browser": "chrome"
+    }
+  }
+}
